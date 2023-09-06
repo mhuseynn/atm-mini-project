@@ -1,0 +1,15 @@
+C:\Users\Huseyn\source\repos\Atm\Atm\bin\Debug\net6.0\Atm.exe
+C:\Users\Huseyn\source\repos\Atm\Atm\bin\Debug\net6.0\Atm.deps.json
+C:\Users\Huseyn\source\repos\Atm\Atm\bin\Debug\net6.0\Atm.runtimeconfig.json
+C:\Users\Huseyn\source\repos\Atm\Atm\bin\Debug\net6.0\Atm.dll
+C:\Users\Huseyn\source\repos\Atm\Atm\bin\Debug\net6.0\Atm.pdb
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.dll
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\refint\Atm.dll
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.pdb
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\Atm.genruntimeconfig.cache
+C:\Users\Huseyn\source\repos\Atm\Atm\obj\Debug\net6.0\ref\Atm.dll
